@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakub Puchala</h1>
+<h1 align="center">Hi 👋, I'm Jakub Puchała</h1>
 <h3 align="center">Full Stack Developer from Wroclaw</h3>
 
 <h3 align="left">Languages and Tools:</h3>
