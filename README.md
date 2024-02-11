@@ -8,5 +8,5 @@
 
 <div align="center">
   <h2>GitHub Stats 🎯</h2>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imjakubpuchala&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&card_width=500" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imjakubpuchala&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 </div>
