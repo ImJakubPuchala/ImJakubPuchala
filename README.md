@@ -64,7 +64,7 @@
 <hr/>
 <div align="center">
   <h2>GitHub Stats 🎯</h2>
-<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Imjakubpuchala&theme=dark&border_radius=5" alt="GitHub Streak" /></a>  -->
-<!--   <br/> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Imjakubpuchala&theme=dark&border_radius=5" alt="GitHub Streak" /></a> 
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjakubpuchala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=500" alt="GitHub Most Used Languages" /></a>
 </div>
