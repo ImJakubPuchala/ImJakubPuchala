@@ -2,7 +2,6 @@
   <h1>👋 Hi, I'm Jakub Puchała</h1>
   <p>💻 Passionate Full-Stack Developer | 🚀 Innovating One Line of Code at a Time</p>
   <a href="https://www.linkedin.com/in/jakubpuchala"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ImJakubPuchala"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
@@ -12,11 +11,6 @@ I'm a full-stack developer with a passion for building scalable web applications
 
 - 🌱 Currently learning **Microservices** and **CI/CD pipelines**
 - 🎯 Looking to collaborate on open-source projects
-
----
-
-### 🚀 Projects
-Check out my projects directly on my [GitHub profile](https://github.com/ImJakubPuchala).
 
 ---
 
