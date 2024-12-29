@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Jakub Puchała</h1>
   <p>💻 Passionate Full-Stack Developer | 🚀 Innovating One Line of Code at a Time</p>
-  <a href="https://www.linkedin.com/in/jakubpuchala"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
@@ -62,12 +61,3 @@ I'm a full-stack developer with a passion for building scalable web applications
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImJakubPuchala&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
   <br/>
 </div>
-
----
-
-### 📫 Connect with Me
-Feel free to reach out if you have any questions, ideas, or just want to connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jakubpuchala"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
