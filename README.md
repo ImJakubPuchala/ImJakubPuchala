@@ -5,14 +5,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-I'm a full-stack developer with a passion for building scalable web applications and exploring new technologies. I focus on full-stack development using .NET, Angular, and React, but I'm always open to learning and adopting new tools and frameworks.
-
-- 🌱 Currently learning **Microservices** and **CI/CD pipelines**
-- 🎯 Looking to collaborate on open-source projects
-
----
-
 ### 🛠️ Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
