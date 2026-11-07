@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I'm Jakub Puchała</h1>
-  <p>💻 Passionate Full-Stack Developer | 🚀 Innovating One Line of Code at a Time</p>
 </div>
 
 ---
